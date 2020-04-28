@@ -1,10 +1,10 @@
 {
 	"type": "mysql",
-	"host": "localhost",
+	"host": "185.224.138.217",
 	"port": 3306,
-	"username": "bvipul",
-	"password": "root",
-	"database": "mynestplayground",
+	"username": "u760641400_bvipul",
+	"password": "Vipul@1995",
+	"database": "u760641400_nestplayground",
 	"entities": ["dist/**/*.entity.js"],
 	"synchronize": true
 }
